@@ -1,2 +1,4 @@
 # CFPB
-Consumer Financial Complaints Project, Partnered w/ IBM
+Consumer Financial Complaints Analysis Project
+Natural Language Processing, Deep Learning
+Partnered with IBM
