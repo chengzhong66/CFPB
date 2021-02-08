@@ -1,4 +1,4 @@
-# CFPB
-Consumer Financial Complaints Analysis Project
-Natural Language Processing, Deep Learning
+# CFPB 
+Consumer Financial Complaints Analysis Project <br>
+Natural Language Processing, Deep Learning <br>
 Partnered with IBM
